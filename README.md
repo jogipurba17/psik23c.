@@ -75,7 +75,7 @@
 
 <div class="container">
     <div class="profile">
-        <img src=" 1.jpg ="Foto Profil" class="profile-img">
+         <img src="1.jpg" alt="Foto Profil" class="profile-img">
         <div class="profile-text">
             <h1>Jogi Purba</h1>
             <h1>Cita-cita:TNI/POLRI</h1>
